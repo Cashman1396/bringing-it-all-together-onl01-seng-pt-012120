@@ -18,5 +18,5 @@ class Dog
     DB[:conn].execute(sql)
   end
   
-  def 
+  def self.drop_tab
 end
